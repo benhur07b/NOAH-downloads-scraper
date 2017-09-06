@@ -15,7 +15,7 @@ You can install these requirements using __pip__ (__sudo pip install -r requirem
 _**PROCEDURE**_
 1. Choose the URLs to be scraped in the URL list.
 2. Add the proxy in PROXY (if any).
-3. Select the directory to save the scraped files to (SAVEDIR).
+3. Select the root directory to save the scraped files to (ROOT_SAVEDIR).
 4. Add a QUERY list to limit the download (i.e. ["Albay", "Abra"]; only files containing strings matching any of the elements in QUERY will be downloaded).
 5. Run All.
 
